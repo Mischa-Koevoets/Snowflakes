@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zE6/Ov5umhbCIWPQPCz5NfKRLeg9y9IzAumlNy8ZwIO1Pqci4ByGBRyAggqYF1Hn/LvZNnG7VvTkT5dM2X9+tg==",
+  "success": true,
+  "projectFilePath": "/home/mischak/Documents/School/NATIVE/BLOK C/Snowflakes/Snowflakes.csproj",
+  "expectedPackageFiles": [
+    "/home/mischak/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.21/microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "/home/mischak/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.21/microsoft.netcore.app.host.linux-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

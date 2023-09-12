@@ -1,0 +1,60 @@
+C:/Git/Falling Snowflakes/Snowflakes/bin/Debug/net6.0/Snowflakes.exe
+C:/Git/Falling Snowflakes/Snowflakes/bin/Debug/net6.0/Snowflakes.deps.json
+C:/Git/Falling Snowflakes/Snowflakes/bin/Debug/net6.0/Snowflakes.runtimeconfig.json
+C:/Git/Falling Snowflakes/Snowflakes/bin/Debug/net6.0/Snowflakes.dll
+C:/Git/Falling Snowflakes/Snowflakes/bin/Debug/net6.0/Snowflakes.pdb
+C:/Git/Falling Snowflakes/Snowflakes/obj/Debug/net6.0/Snowflakes.csproj.AssemblyReference.cache
+C:/Git/Falling Snowflakes/Snowflakes/obj/Debug/net6.0/Snowflakes.GeneratedMSBuildEditorConfig.editorconfig
+C:/Git/Falling Snowflakes/Snowflakes/obj/Debug/net6.0/Snowflakes.AssemblyInfoInputs.cache
+C:/Git/Falling Snowflakes/Snowflakes/obj/Debug/net6.0/Snowflakes.AssemblyInfo.cs
+C:/Git/Falling Snowflakes/Snowflakes/obj/Debug/net6.0/Snowflakes.csproj.CoreCompileInputs.cache
+C:/Git/Falling Snowflakes/Snowflakes/obj/Debug/net6.0/Snowflakes.dll
+C:/Git/Falling Snowflakes/Snowflakes/obj/Debug/net6.0/refint/Snowflakes.dll
+C:/Git/Falling Snowflakes/Snowflakes/obj/Debug/net6.0/Snowflakes.pdb
+C:/Git/Falling Snowflakes/Snowflakes/obj/Debug/net6.0/Snowflakes.genruntimeconfig.cache
+C:/Git/Falling Snowflakes/Snowflakes/obj/Debug/net6.0/ref/Snowflakes.dll
+C:/Git/Falling Snowflakes/Snowflakes2/Snowflakes/bin/Debug/net6.0/Snowflakes.exe
+C:/Git/Falling Snowflakes/Snowflakes2/Snowflakes/bin/Debug/net6.0/Snowflakes.deps.json
+C:/Git/Falling Snowflakes/Snowflakes2/Snowflakes/bin/Debug/net6.0/Snowflakes.runtimeconfig.json
+C:/Git/Falling Snowflakes/Snowflakes2/Snowflakes/bin/Debug/net6.0/Snowflakes.dll
+C:/Git/Falling Snowflakes/Snowflakes2/Snowflakes/bin/Debug/net6.0/Snowflakes.pdb
+C:/Git/Falling Snowflakes/Snowflakes2/Snowflakes/obj/Debug/net6.0/Snowflakes.csproj.AssemblyReference.cache
+C:/Git/Falling Snowflakes/Snowflakes2/Snowflakes/obj/Debug/net6.0/Snowflakes.GeneratedMSBuildEditorConfig.editorconfig
+C:/Git/Falling Snowflakes/Snowflakes2/Snowflakes/obj/Debug/net6.0/Snowflakes.AssemblyInfoInputs.cache
+C:/Git/Falling Snowflakes/Snowflakes2/Snowflakes/obj/Debug/net6.0/Snowflakes.AssemblyInfo.cs
+C:/Git/Falling Snowflakes/Snowflakes2/Snowflakes/obj/Debug/net6.0/Snowflakes.csproj.CoreCompileInputs.cache
+C:/Git/Falling Snowflakes/Snowflakes2/Snowflakes/obj/Debug/net6.0/Snowflakes.dll
+C:/Git/Falling Snowflakes/Snowflakes2/Snowflakes/obj/Debug/net6.0/refint/Snowflakes.dll
+C:/Git/Falling Snowflakes/Snowflakes2/Snowflakes/obj/Debug/net6.0/Snowflakes.pdb
+C:/Git/Falling Snowflakes/Snowflakes2/Snowflakes/obj/Debug/net6.0/Snowflakes.genruntimeconfig.cache
+C:/Git/Falling Snowflakes/Snowflakes2/Snowflakes/obj/Debug/net6.0/ref/Snowflakes.dll
+C:/Git/Snowflakes/bin/Debug/net6.0/Snowflakes.exe
+C:/Git/Snowflakes/bin/Debug/net6.0/Snowflakes.deps.json
+C:/Git/Snowflakes/bin/Debug/net6.0/Snowflakes.runtimeconfig.json
+C:/Git/Snowflakes/bin/Debug/net6.0/Snowflakes.dll
+C:/Git/Snowflakes/bin/Debug/net6.0/Snowflakes.pdb
+C:/Git/Snowflakes/obj/Debug/net6.0/Snowflakes.csproj.AssemblyReference.cache
+C:/Git/Snowflakes/obj/Debug/net6.0/Snowflakes.GeneratedMSBuildEditorConfig.editorconfig
+C:/Git/Snowflakes/obj/Debug/net6.0/Snowflakes.AssemblyInfoInputs.cache
+C:/Git/Snowflakes/obj/Debug/net6.0/Snowflakes.AssemblyInfo.cs
+C:/Git/Snowflakes/obj/Debug/net6.0/Snowflakes.csproj.CoreCompileInputs.cache
+C:/Git/Snowflakes/obj/Debug/net6.0/Snowflakes.dll
+C:/Git/Snowflakes/obj/Debug/net6.0/refint/Snowflakes.dll
+C:/Git/Snowflakes/obj/Debug/net6.0/Snowflakes.pdb
+C:/Git/Snowflakes/obj/Debug/net6.0/Snowflakes.genruntimeconfig.cache
+C:/Git/Snowflakes/obj/Debug/net6.0/ref/Snowflakes.dll
+/home/mischak/Documents/School/NATIVE/BLOK C/Snowflakes/bin/Debug/net6.0/Snowflakes
+/home/mischak/Documents/School/NATIVE/BLOK C/Snowflakes/bin/Debug/net6.0/Snowflakes.deps.json
+/home/mischak/Documents/School/NATIVE/BLOK C/Snowflakes/bin/Debug/net6.0/Snowflakes.runtimeconfig.json
+/home/mischak/Documents/School/NATIVE/BLOK C/Snowflakes/bin/Debug/net6.0/Snowflakes.dll
+/home/mischak/Documents/School/NATIVE/BLOK C/Snowflakes/bin/Debug/net6.0/Snowflakes.pdb
+/home/mischak/Documents/School/NATIVE/BLOK C/Snowflakes/obj/Debug/net6.0/Snowflakes.csproj.AssemblyReference.cache
+/home/mischak/Documents/School/NATIVE/BLOK C/Snowflakes/obj/Debug/net6.0/Snowflakes.GeneratedMSBuildEditorConfig.editorconfig
+/home/mischak/Documents/School/NATIVE/BLOK C/Snowflakes/obj/Debug/net6.0/Snowflakes.AssemblyInfoInputs.cache
+/home/mischak/Documents/School/NATIVE/BLOK C/Snowflakes/obj/Debug/net6.0/Snowflakes.AssemblyInfo.cs
+/home/mischak/Documents/School/NATIVE/BLOK C/Snowflakes/obj/Debug/net6.0/Snowflakes.csproj.CoreCompileInputs.cache
+/home/mischak/Documents/School/NATIVE/BLOK C/Snowflakes/obj/Debug/net6.0/Snowflakes.dll
+/home/mischak/Documents/School/NATIVE/BLOK C/Snowflakes/obj/Debug/net6.0/refint/Snowflakes.dll
+/home/mischak/Documents/School/NATIVE/BLOK C/Snowflakes/obj/Debug/net6.0/Snowflakes.pdb
+/home/mischak/Documents/School/NATIVE/BLOK C/Snowflakes/obj/Debug/net6.0/Snowflakes.genruntimeconfig.cache
+/home/mischak/Documents/School/NATIVE/BLOK C/Snowflakes/obj/Debug/net6.0/ref/Snowflakes.dll
